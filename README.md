@@ -21,7 +21,7 @@ Open the terminal and install <b>ws</b>.
     npm install ws
 ```
 
-Pretty effortless, hm? As Node's terminal takes care of mostly everything for us.<br>
+Pretty effortless, hm? As the terminal takes care of mostly everything for us.<br>
 After that, open the <b>ws-server.js</b> file with node, the file is located at the project's root folder.
 
 ```bash
