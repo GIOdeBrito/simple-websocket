@@ -1,7 +1,7 @@
 # Simple WebSocket Js
 
-This is a most setup as to how does a WebSocket connection between
-a server and a client work.<br>
+This is a setup as to establish a WebSocket connection between
+a server and a client in JavaScript and Ws.<br>
 This idea came to me as I remembered a
 Computer Network project of eld times.
 
@@ -35,7 +35,7 @@ Node shall notify you whether the application is presently running on port 8080.
 - [@GIOdeBrito](https://github.com/GIOdeBrito)
 
 
-## Bibliographic References
+## External Resources
 
  - [ws: a Node.js WebSocket library](https://www.npmjs.com/package/ws)
  - [MDN - WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
